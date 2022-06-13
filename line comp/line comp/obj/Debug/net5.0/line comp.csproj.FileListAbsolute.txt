@@ -1,0 +1,16 @@
+D:\line comp\line comp\line comp\bin\Debug\net5.0\line comp.exe
+D:\line comp\line comp\line comp\bin\Debug\net5.0\line comp.deps.json
+D:\line comp\line comp\line comp\bin\Debug\net5.0\line comp.runtimeconfig.json
+D:\line comp\line comp\line comp\bin\Debug\net5.0\line comp.runtimeconfig.dev.json
+D:\line comp\line comp\line comp\bin\Debug\net5.0\line comp.dll
+D:\line comp\line comp\line comp\bin\Debug\net5.0\line comp.pdb
+D:\line comp\line comp\line comp\obj\Debug\net5.0\line comp.csproj.AssemblyReference.cache
+D:\line comp\line comp\line comp\obj\Debug\net5.0\line comp.GeneratedMSBuildEditorConfig.editorconfig
+D:\line comp\line comp\line comp\obj\Debug\net5.0\line comp.AssemblyInfoInputs.cache
+D:\line comp\line comp\line comp\obj\Debug\net5.0\line comp.AssemblyInfo.cs
+D:\line comp\line comp\line comp\obj\Debug\net5.0\line comp.csproj.CoreCompileInputs.cache
+D:\line comp\line comp\line comp\obj\Debug\net5.0\line comp.dll
+D:\line comp\line comp\line comp\obj\Debug\net5.0\refint\line comp.dll
+D:\line comp\line comp\line comp\obj\Debug\net5.0\line comp.pdb
+D:\line comp\line comp\line comp\obj\Debug\net5.0\line comp.genruntimeconfig.cache
+D:\line comp\line comp\line comp\obj\Debug\net5.0\ref\line comp.dll
